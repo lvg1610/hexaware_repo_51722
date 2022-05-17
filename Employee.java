@@ -11,4 +11,8 @@ public class Employee
          this.ename = ename;
          this.salary = salary;
      }     
+     public String toString()
+     {
+          return empid +"   "+ename+"    "+salary;
+     }    
 }
