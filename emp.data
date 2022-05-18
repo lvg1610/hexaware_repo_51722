@@ -1,0 +1,5 @@
+[
+  {empid:101,ename:"Ajay",salary:1000},
+  {empid:102,ename:"John",salary:2000},
+  {empid:103,ename:"James",salary:3000}
+]
