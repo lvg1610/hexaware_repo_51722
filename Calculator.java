@@ -8,5 +8,11 @@ public class Calculator implements First
     {
         return x*x;
     }
+    public int divide(int x,int y)
+    {
+        if(y!=0)
+            return x/y;
+        throw new ArithmeticException("Invalid Division by zero");
+     }   
 }
  
